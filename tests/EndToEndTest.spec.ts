@@ -8,6 +8,7 @@
  * 1) Register a new account
  * 2) Logout after registration
  * test
+ * test branch
  * 3) Login with the same account
  * 4) Search for a product and add it to the shopping cart
  * 5) Verify cart contents
