@@ -12,6 +12,7 @@
  * 6. Set quantity
  * 7. Add the product to the cart
  * 8. Verify the success message
+ * For test
  */
 
 import { test, expect } from '@playwright/test';
